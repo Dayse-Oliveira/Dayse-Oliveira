@@ -1,4 +1,4 @@
-## Oi! Eu sou a Dayse-Oliveira 😁
+## Oi! Eu sou a Dayse Oliveira 😁
 
  <div>
   <a href="https://github.com/Dayse-Oliveira">
