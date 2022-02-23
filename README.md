@@ -1,5 +1,11 @@
 ## Oi! Eu sou a Dayse Oliveira 😁
 
+Estudando Javascript atualmente. 
+Conhecimento em HTML, CSS, Javascript, GIT E Github.
+Em transição de carreira, apaixonei pelo mundo da programação. Gosto de desenvolver projetos, mais precisamente na área de front end e atualmente busco minha primeira oportunidade de emprego na área.
+Fique à vontade e me coloco à disposição para esclarecer qualquer dúvida.
+Apaixonada por filmes, séries e mundo Geek!
+
  <div>
   <a href="https://github.com/Dayse-Oliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dayse-Oliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
